@@ -6,7 +6,7 @@ body {
   height: 100%;
 }
 
-.App {
+#app {
   text-align: center;
   background-color: #fff6f2;
   font-family: 'Quicksand', sans-serif;

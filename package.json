@@ -1,9 +1,9 @@
 {
-  "name": "manoah",
+  "name": "manoah_eatery",
   "homepage": "https://manoaheatery.github.io/",
   "type": "module",
   "version": "0.2.0",
-  "description": "React!",
+  "description": "manoah eatery website",
   "repository": "https://github.com/manoaheatery/manoaheatery.github.io",
   "main": "server/index.js",
   "scripts": {
