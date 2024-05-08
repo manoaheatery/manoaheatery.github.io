@@ -7,7 +7,7 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <div className="App">
+    <div id="App">
       <ScrollToTopButton />
       <div id="main">
         <div id="top"></div>
