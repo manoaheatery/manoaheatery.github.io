@@ -1,9 +1,10 @@
 {
-  "name": "boilerplate-react",
+  "name": "manoah",
+  "homepage": "https://manoaheatery.github.io/",
   "type": "module",
   "version": "0.2.0",
   "description": "React!",
-  "repository": "https://github.com/dev-academy-challenges/react-boilerplate.git",
+  "repository": "https://github.com/manoaheatery/manoaheatery.github.io",
   "main": "server/index.js",
   "scripts": {
     "dev": "vite",
@@ -18,7 +19,7 @@
       "bundle.js"
     ]
   },
-  "author": "Dev Academy Aotearoa",
+  "author": "manoah",
   "license": "ISC",
   "devDependencies": {
     "@devacademy/eslint-config": "^1.9.1",
