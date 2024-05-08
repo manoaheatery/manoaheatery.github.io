@@ -1,9 +1,9 @@
-import logo from '../images/logo.png'
-import Information from './Information'
-import Menu from './Menu'
-import Story from './Story'
-import ScrollToTopButton from './ScrollToTopButton'
-import Footer from './Footer'
+import logo from './images/logo.png'
+import Information from './components/Information'
+import Menu from './components/Menu'
+import Story from './components/Story'
+import ScrollToTopButton from './components/ScrollToTopButton'
+import Footer from './components/Footer'
 
 function App() {
   return (
