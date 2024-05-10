@@ -22,7 +22,7 @@ const Information = () => {
           <MapIcon /> 3/146 Sunnynook Road
         </a>
       </p>
-      <p className="information-title">Hours</p>
+      <p className="information-title">Opening Hours</p>
       <p className="information-hours">
         OPEN
         <br />

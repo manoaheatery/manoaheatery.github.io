@@ -46,7 +46,7 @@
 
 .logo-container {
   position: absolute;
-  top: 21%;
+  top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
@@ -70,14 +70,14 @@
   margin-top: 3.2vh;
   color: #f3c9b8;
   font-weight: 600;
-  font-size: 2.7vh;
+  font-size: 3vh;
   margin-bottom: 1vh;
 }
 
 .information-contact {
-  color: #025984;
-  font-size: 2.7vh;
-  font-weight: 400;
+  color: #ffffff;
+  font-size: 2.5vh;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 .information-phone {
@@ -93,20 +93,30 @@
 
 .information-hours {
   color: #ffffff;
-  font-size: 2.6vh;
-  font-weight: 400;
+  font-size: 2.2vh;
   margin-bottom: 3vh;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 .information-hours span {
-  font-size: 2.4vh;
-  font-style: italic;
+  font-size: 2vh;
 }
 
 #menu {
   height: 100vh;
   position: relative;
   width: 100vw;
+}
+
+.menu-image {
+  margin-top: 2%;
+  top: 0;
+  left: 0;
+  height: 50vh;
+  width: 100%;
+  opacity: 0.9;
+  filter: brightness(110%);
+  object-fit: cover;
 }
 
 .menu-box {
@@ -117,7 +127,7 @@
   align-items: center;
   position: absolute;
   width: 100%;
-  margin-top: -0.5vh;
+  margin-top: 2vh;
 }
 
 .menu-text {
@@ -133,18 +143,8 @@
   font-weight: 500;
 }
 
-.menu-image {
-  margin-top: 5%;
-  top: 0;
-  left: 0;
-  height: 50vh;
-  width: 100%;
-  opacity: 0.9;
-  object-fit: cover;
-}
-
 .download {
-  margin-top: 3vh;
+  margin-top: 6vh;
   text-align: center;
   background-color: rgba(255, 255, 255, 0);
   border: none;
@@ -245,10 +245,27 @@
   }
 
   #slogan {
-    font-size: 10vh;
+    font-size: 13vh;
   }
+
+  .slogan-text {
+    padding-top: 20vh;
+  }
+
   #information {
     margin-top: 38vh;
+  }
+
+  .information-contact {
+    font-size: 2vh;
+  }
+
+  .information-hours {
+    font-size: 2vh;
+  }
+
+  .information-hours span {
+    font-size: 1.8vh;
   }
 
   .menu-text {
@@ -263,7 +280,6 @@
   }
 
   .story-image {
-    width: 85%;
     height: 100%;
     display: block;
     margin: 5vh auto;

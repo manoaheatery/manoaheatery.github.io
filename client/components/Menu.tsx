@@ -1,4 +1,4 @@
-import menu from '../images/menu1.png'
+import menu from '../images/menu.jpg'
 
 const cvFileUrl =
   'https://drive.google.com/file/d/1AYzxYkSrIBNTwqyNI4ZC3hTwQM4sFAct/view?usp=drive_link'
