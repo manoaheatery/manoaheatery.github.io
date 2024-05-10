@@ -8,11 +8,7 @@ Follow these steps to set up and run the manoah web:
 ## Packages Included
 
 - react
-- react-router-dom
 - express
-- vite
-- vitest
-- eslint
 
 ## Setup
 
@@ -26,4 +22,13 @@ Follow these steps to set up and run the manoah web:
     ```
   </details>
 
+
+- For deploy `npm run deploy`
+  <details style="padding-left: 2em">
+    <summary>Tip</summary>
+
+    ```sh
+    npm run deploy
+    ```
+  </details>
 
