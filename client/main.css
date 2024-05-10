@@ -46,7 +46,7 @@
 
 .logo-container {
   position: absolute;
-  top: 25%;
+  top: 21%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
@@ -63,11 +63,11 @@
   margin-top: 30vh;
   width: 100%;
   background-color: #025984;
-  height: 50vh;
+  height: 57vh;
 }
 
 .information-title {
-  margin-top: 3vh;
+  margin-top: 3.2vh;
   color: #f3c9b8;
   font-weight: 600;
   font-size: 2.7vh;
@@ -76,7 +76,7 @@
 
 .information-contact {
   color: #025984;
-  font-size: 2vh;
+  font-size: 2.7vh;
   font-weight: 400;
 }
 
@@ -93,13 +93,13 @@
 
 .information-hours {
   color: #ffffff;
-  font-size: 2vh;
+  font-size: 2.6vh;
   font-weight: 400;
   margin-bottom: 3vh;
 }
 
 .information-hours span {
-  font-size: 1.8vh;
+  font-size: 2.4vh;
   font-style: italic;
 }
 
@@ -121,14 +121,14 @@
 }
 
 .menu-text {
-  margin-top: 4vh;
+  margin-top: 3vh;
   text-align: left;
   width: 80%;
-  font-size: 2vh;
+  font-size: 2.3vh;
 }
 
 .menu-logo {
-  font-size: 3vh;
+  font-size: 3.8vh;
   color: #025984;
   font-weight: 500;
 }
@@ -137,7 +137,7 @@
   margin-top: 5%;
   top: 0;
   left: 0;
-  height: 60vh;
+  height: 50vh;
   width: 100%;
   opacity: 0.9;
   object-fit: cover;
@@ -234,8 +234,8 @@
 
 .copyright {
   height: 5vh;
-  margin-top: 2vh;
-  font-size: 1vh;
+  margin-top: 2.3vh;
+  font-size: 1.2vh;
   text-align: center;
 }
 
@@ -270,6 +270,6 @@
   }
 
   .copyright {
-    font-size: 1.3vh;
+    font-size: 1.4vh;
   }
 }
