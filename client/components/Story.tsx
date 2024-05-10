@@ -1,4 +1,4 @@
-import story from '../images/story.png'
+import story from '../images/story.jpg'
 
 const Story = () => {
   return (
@@ -12,20 +12,16 @@ const Story = () => {
         </span>
         <br /> <br />
         <span className="story2">
-          At manoah, named 'Rest', we offer a serene dining experience that
-          transcends the ordinary, celebrating both exceptional cuisine and a
-          strong community connection.
-        </span>
-        <br />
-        <br />
-        <span className="story2">
-          Our commitment to quality is showcased in our entire menu, which
-          features only the finest local ingredients sourced from trusted
-          suppliers. Beyond our famous katsu, we take pride in every detail—from
-          the ambient setting to our innovative dishes that introduce guests to
-          new flavors while respecting classic techniques. Join us at manoah,
-          where each meal is an opportunity to experience culinary artistry and
-          forge meaningful connections.
+          Manoah means &apos;to rest&apos;. Our name reflects the cozy space we
+          provide within our community for everyone to enjoy and celebrate any
+          occasion. <br />
+          <br />
+          Besides our famous katsu, we are well known for our innovative and
+          modern cuisines, made from local ingredients sourced from trusted
+          suppliers. <br />
+          <br />
+          Join us at manoah and explore the highest quality dishes that you
+          won&apos;t experience elsewhere.
         </span>
       </div>
       <img src={story} className="story-image" alt="story" />

@@ -19,11 +19,10 @@ const Menu = () => {
       <img src={menu} className="menu-image" alt="menu" />
       <div className="menu-box">
         <p className="menu-text">
-          <span className="menu-logo">manoah</span>&apos;s Premium Quality Katsu
-          showcases our dedication to culinary excellence.
-          <br /> <br /> We make our own breadcrumbs, ensuring each katsu is
-          perfectly crisp and flavorful. This meticulous process highlights the
-          tender, juicy meat, providing a superior dining experience.
+          <span className="menu-logo">manoah</span>,
+          we proudly present to you our premium quality katsu. From making our
+          own breadcrumbs to adding the final touches, we put care into every
+          dish for an excellent and a memorable dining experience.
         </p>
         <button
           className="download"

@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from 'react'
+import symbol from '../images/symbol.png'
+
 
 const Slogan: React.FC = () => {
   const [isVisible, setIsVisible] = useState<boolean>(true)
@@ -43,6 +45,8 @@ const Slogan: React.FC = () => {
       }}
     >
       <p className="slogan-text">{displayedText}</p>
+      <img src={symbol} className="symbol-image" alt="symbol" />
+
     </div>
   )
 }

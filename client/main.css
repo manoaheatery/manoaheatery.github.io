@@ -30,6 +30,14 @@
   font-weight: 700;
 }
 
+.symbol-image {
+  height: 7vh;
+  width: auto;
+  position: absolute;
+  bottom: 2vh;
+  right: 3vw;
+}
+
 #main {
   height: 90vh;
   width: 100vw;
@@ -168,13 +176,15 @@
 }
 
 .story2 {
-  font-size: 1.6vh;
+  font-size: 2vh;
 }
 
 .story-image {
+  height: 50vh;
   width: 100%;
   opacity: 0.8;
   margin-top: 4vh;
+  object-fit: cover;
 }
 
 .scrollToTopButton {
@@ -222,6 +232,9 @@
     width: 30vh;
   }
 
+  #slogan {
+    font-size: 10vh;
+  }
   #information {
     margin-top: 38vh;
   }
@@ -238,7 +251,7 @@
   }
 
   .story-image {
-    width: 85%;
+    /* width: 85%; */
     display: block;
     margin: 5vh auto;
   }
