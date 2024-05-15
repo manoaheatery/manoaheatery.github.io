@@ -6,12 +6,17 @@ The manoah web is a web platform for the manoah restaurant, featuring an intuiti
 Follow these steps to set up and run the manoah web:
 
 ## Packages Included
-
-- react
-- express
+<div>
+  <img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
+  <img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
+  <img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
+  <img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
+  <img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
+  <img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
+  <img height="32px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="docker"/>
+</div>
 
 ## Setup
-
 - Clone this repo, navigate to it, install packages, and start the server with `npm run dev`
   <details style="padding-left: 2em">
     <summary>Tip</summary>
@@ -22,7 +27,6 @@ Follow these steps to set up and run the manoah web:
     ```
   </details>
 
-
 - For deploy `npm run deploy`
   <details style="padding-left: 2em">
     <summary>Tip</summary>
@@ -31,4 +35,7 @@ Follow these steps to set up and run the manoah web:
     npm run deploy
     ```
   </details>
+
+## Preview
+- 
 
