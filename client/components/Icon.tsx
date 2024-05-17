@@ -1,7 +1,7 @@
 export const InstagramIcon = () => {
   return (
     <svg
-      width="auto"
+      width="3.7vh"
       height="3.7vh"
       viewBox="0 0 32 32"
       fill="none"
