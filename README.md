@@ -35,7 +35,3 @@ Follow these steps to set up and run the manoah web:
     npm run deploy
     ```
   </details>
-
-## Preview
-- 
-
