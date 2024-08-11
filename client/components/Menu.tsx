@@ -1,8 +1,8 @@
 import menu from '../images/menu.jpg'
 
 const cvFileUrl =
-    'https://drive.google.com/file/d/13SGae8rV7YRptyAV388S1yVE8m2brQgO/view'
-const cvFileName = 'Menu_A4_2406_FINAL.pdf'
+  'https://drive.google.com/file/d/1xOOo5OdTFBFU6seoj1THgnP03ez0yOLT/view?usp=drive_link'
+const cvFileName = 'Menu_A4_2408_PRINT.pdf'
 
 const Menu = () => {
   const downloadPDF = (url: string) => {
@@ -19,10 +19,10 @@ const Menu = () => {
       <img src={menu} className="menu-image" alt="menu" />
       <div className="menu-box">
         <p className="menu-text">
-          <span className="menu-logo">manoah</span>,
-          we proudly present to you our premium quality katsu. From making our
-          own breadcrumbs to adding the final touches, we put care into every
-          dish for an excellent and a memorable dining experience.
+          <span className="menu-logo">manoah</span>, we proudly present to you
+          our premium quality katsu. From making our own breadcrumbs to adding
+          the final touches, we put care into every dish for an excellent and a
+          memorable dining experience.
         </p>
         <button
           className="download"
