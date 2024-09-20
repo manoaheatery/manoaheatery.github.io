@@ -26,20 +26,27 @@ const Information = () => {
       <p className="information-hours">
         OPEN
         <br />
-        Tuesday - Saturday <br />
-        Lunch : 11:30am - 3:00pm
-        <span> [Last Order 2:30pm]</span>
+        Monday
         <br />
-        Dinner : 5:00pm - 8:30pm
-        <span> [Last Order 8:00pm]</span>
+        Lunch: 11:30am - 3:00pm <span>[Last Order 2:30pm]</span>
         <br />
-        <span>[ Break 3:00pm - 5:00pm ]</span>
+        <br />
+        Tuesday - Saturday
+        <br />
+        Lunch: 11:30am - 3:00pm <span>[Last Order 2:30pm]</span>
+        <br />
+        Dinner: 5:00pm - 8:30pm <span>[Last Order 8:00pm]</span>
+        <br />
+        <span>[Break 3:00pm - 5:00pm]</span>
       </p>
+
       <p className="information-hours">
-        CLOSED <br />
-        Monday, Sunday & Public Holiday
         <br />
+        CLOSED
+        <br />
+        Sunday & Public Holiday
       </p>
+
       <a href="https://www.instagram.com/manoaheatery/">
         <InstagramIcon />
       </a>
