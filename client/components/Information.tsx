@@ -42,7 +42,7 @@ const Information = () => {
         <br />
         CLOSED
         <br />
-        Monday Sunday & Public Holiday
+        Sunday & Public Holiday
       </p>
 
       <a href="https://www.instagram.com/manoaheatery/">
