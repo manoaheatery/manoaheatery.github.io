@@ -26,7 +26,9 @@ const Information = () => {
       <p className="information-hours">
         OPEN
         <br />
-    
+        Monday
+        <br />
+        Lunch: 11:30am - 3:00pm <span>[Last Order 2:30pm]</span>
         Tuesday - Saturday
         <br />
         Lunch: 11:30am - 3:00pm <span>[Last Order 2:30pm]</span>
